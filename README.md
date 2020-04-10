@@ -1,7 +1,5 @@
 # King County, WA Housing Affordability Study
-
 ![Seattle](presentation_image_copy.png)
-
 ## Problem Statement
 From 2000 to 2020, the median home value in King County, WA increased by approximately 190%. 
 ## Data Gathering
