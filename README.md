@@ -1,4 +1,5 @@
 # King County, WA Housing Affordability Study
+
 ![Seattle](presentation_image_copy.png)
 
 ## Problem Statement
